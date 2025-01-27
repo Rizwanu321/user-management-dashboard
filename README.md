@@ -157,3 +157,8 @@ The application will run at `http://localhost:3000`
 ### Desktop View
 
 ![Web Interface](https://res.cloudinary.com/dngzbeidb/image/upload/v1737995689/zbjeaihhpzbunfs9ure1.png)
+
+## Website Link
+
+Visit the live website: [User Management Dashboard](https://user-management-dashboard-ecru-five.vercel.app/)
+
